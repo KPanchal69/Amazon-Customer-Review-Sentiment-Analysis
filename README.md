@@ -221,11 +221,7 @@ This project uses an **Amazon Customer Reviews Dataset** containing **10,000 lab
 | label | Review Sentiment (Positive / Negative) |
 | review | Customer Review Text |
 
-📥 **Download Dataset**
-
-```text
-Dataset.csv
-```
+📥 [Download Dataset](Dataset.zip)
 
 ---
 
